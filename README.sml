@@ -14,4 +14,4 @@ To load from a file, type "Y" when prompted and provide the filename (.sml file 
 
 Once the program is loaded, the simulator will automatically execute the instructions in memory.
 
-here is a link  Also is some examples of files used in running the code.
+here is a link https://github.com/Oreofeoluwa92/Simpletron.git Also is some examples of files used in running the code.
